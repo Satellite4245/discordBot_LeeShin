@@ -1,0 +1,24 @@
+# 보안 및 설정 파일
+.env
+settings.json
+admins.json
+userdata.json
+
+# 데이터베이스
+*.db
+
+# 파이썬 가상환경 및 캐시
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+
+# IDE 및 운영체제 관련
+.vscode/
+.idea/
+.DS_Store
+*.swp
+
+# 테스트 및 임시 파일
+test.py
+*.tmp
